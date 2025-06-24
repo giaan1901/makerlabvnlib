@@ -22,6 +22,7 @@ void setup()
 {
   // Khởi động LCD
   // LCD start
+  // H
   lcd.init();
   lcd.backlight();
 
